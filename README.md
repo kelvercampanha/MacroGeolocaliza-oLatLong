@@ -1,0 +1,1 @@
+# MacroGeolocaliza-oLatLong
